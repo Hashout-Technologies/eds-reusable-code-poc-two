@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p43719-e1080482.adobeaemcloud.com/bin/franklin.delivery/hashout-technologieseds-reusable-code-poc-two/main"
+    url: "https://author-p43719-e1080482.adobeaemcloud.com/bin/franklin.delivery/hashout-technologies/eds-reusable-code-poc-two/main"
     type: "markup"
     suffix: ".html"
