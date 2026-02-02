@@ -38,7 +38,7 @@
           "component": "richtext",
           "name": "text",
           "value": "",
-          "label": "Text",
+          "label": "Descritpion",
           "valueType": "string"
         }
       ]
