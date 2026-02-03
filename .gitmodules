@@ -1,3 +1,12 @@
 [submodule "blocks"]
 	path = blocks
 	url = https://github.com/Hashout-Technologies/eds-reusable-code-submodule-poc.git
+[submodule "component-models.json"]
+	path = component-models.json
+	url = https://github.com/Hashout-Technologies/eds-reusable-code-submodule-poc.git
+[submodule "component-definition.json"]
+	path = component-definition.json
+	url = https://github.com/Hashout-Technologies/eds-reusable-code-submodule-poc.git
+[submodule "component-filters.json"]
+	path = component-filters.json
+	url = https://github.com/Hashout-Technologies/eds-reusable-code-submodule-poc.git
